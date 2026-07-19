@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="1200" height="475" alt="iCloudEMS V2" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # iCloudEMS V2
 
 A mobile-first web application that replicates the iCloudEMS V2 report card experience with:
@@ -10,6 +6,10 @@ A mobile-first web application that replicates the iCloudEMS V2 report card expe
 - a report card form with semester/session selection
 - biometric authentication flow for attendance scanning
 - notifications and result views
+
+## About This Project
+
+This project was originally bootstrapped with Google AI Studio and has since been adapted into the current iCloudEMS V2 experience.
 
 ## Tech Stack
 
